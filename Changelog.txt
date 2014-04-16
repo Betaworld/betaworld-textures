@@ -1,0 +1,107 @@
+Seriously, with a Resource Pack like this, it would be retarded not to have a changelog. 
+
+I started the base pack the day Betaworld's first rc modpack started. This base pack was completed March of 2014. 
+
+The base pack contains a huge chunk of textures I considered to be essential. It makes no sense to make and animate a tool that it takes months to gather, but not have the basic items it takes to make it.
+
+Mod packs in the "done" state;
+(please note:"done" doesn't mean every texture is updated.  It means that the pack is at anywhere from 80-100% complete. Textures can still be changed upon community feedback)
+
+~Ars Magica 2
+~Atomic Science
+~Bibliocraft
+~Buildcraft
+~Calclavia
+~Carpenters Blocks
+~ExtrabiomesXL
+~Galacticraft Core
+~Galacticraft Mars
+~Galacticraft Moon
+~Mffs
+~Minecraft (Misa's core pack tweaked by me)
+~Balkon's Weapons Mod
+~Wild Caves
+
+Changes:
+
+1.0
+-Oficial Release!
+Permission granted from Misa to distribute her textures!  YAY Misa!
+
+0.6
+-Atomic Science Uranium Ore has been re-textured!
+-Ars Magica Keystone chest revamped!
+-Mo Creatures Golem revamped/not fully done.
+-Galacticraft Core is considered done!
+-Updated the mojang login pic!
+-Updated Credits text!
+
+0.5
+-Galacticraft Mars completely done. (too many changes to list)
+-Galacticraft Moon completely done. (too many changes to list)
+-Mo Creatures Silver skeleton has been textured!
+
+0.4
+-Ars Magica affinity Runes has been textured!
+-Ars Magica affinity Tomes has been textured!
+-Ars Magica affinity Essences has been textured!
+-Ars Magica affinity Essence bag has been textured!
+-Ars Magica Crystal stand has been textured!
+-Ars Magica magic wall revamped!
+-Ars Magica Mage armor has been textured!
+-Ars Magica Battlemage armor has been textured!
+-Ars Magica Crystal wrench has been textured!
+-Ars Magica chalk has been textured!
+-Ars Magica Vinteum dust has been textured!
+-Ars Magica Purified vinteum dust has been textured!
+-Ars Magica Rune bag has been textured!
+-Tinker's Diamond apple has been textured!
+-Galacticraft core airlock control off has been textured!
+-Galacticraft core airlock control on has been textured!
+-Galacticraft core Moon (space) has been textured!
+-Galacticraft core Overworld (space) has been textured!
+
+0.3
+-Tinker's Battlesigns are now in the pack!
+-Galacticraft core base textures have been added!
+-Galacticraft moon textures have been added!
+-Atomic Science Uranium Ore has been adjusted!
+
+0.2
+-Tinker's Shortbows are now in the pack!
+-Tinker's Daggers are now in the pack!
+-Large plate has now been textured!
+
+0.1
+-Tinker's redstone brick brighter/more red.
+-Biomesxl cypress leave toned down.
+-Tinker's top of green slime grass color adjusted.
+
+0.0
+-Base pack created
+
+
+To do: Tinker's Cleaver, cutlas, frypan, scythe, rapier, pickmattock, mattock
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
