@@ -24,9 +24,15 @@ Mod packs in the "done" state;
 
 Changes:
 
-1.0
--Oficial Release!
-Permission granted from Misa to distribute her textures!  YAY Misa!
+1.1.0
+-Official Release Fix! With modpack updates for our release, there came complications!
+
+1.0.0
+-Official Release!
+Permission granted from Misa to distribute their textures!  YAY Misa!
+Permission granted from JJJas0n to distribute their textures!  YAY JJJas0n!
+Permission granted from Soartex to distribute their textures!  YAY Soartex!
+
 
 0.6
 -Atomic Science Uranium Ore has been re-textured!
