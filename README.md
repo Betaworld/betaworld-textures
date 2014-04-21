@@ -25,6 +25,14 @@ Inspiration came from:
 ( http://www.minecraftforum.net/topic/732038-1286432-jjjas0ns-fancycraft-texturepack-11/ )
 --------------------------------------------------------------
 
+1.1.1
+-Water texture color corrected!
+-Tinker's Quartz enchant added for all done items!
+-Wildcaves Bone ore reskinned!
+-Galacticraft inventory gui updated!
+-Tinker's Emerald enchant updated for a few textures.
+-Enchanting books updated!
+-Misa credit and texturepack credit.txt's have merged!
 
 1.1.0
 -Official Release Fix! With modpack updates for our release, there came complications!
