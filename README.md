@@ -2,3 +2,37 @@ betaworld-textures
 ==================
 
 Official Betaworld texture pack.
+
+--------------------------------------------------------------
+The base pack was brilliantly created by Misa! Below is the 
+direct link to the page.
+
+http://www.minecraftforum.net/topic/69354-6
+
+If you want the full effect of ctm and mcpatcher textures 
+(and I know you do!!) please visit her site and get the full 
+pack!  For more instructions, feel free to PM me!
+--------------------------------------------------------------
+Inspiration came from:
+
+- Soartex Fanver 
+( http://www.minecraftforum.net/topic/824150-17x-soartex-fanver-smooth-and-clean-released/page__hl__%20soartex )
+
+- Sphax
+( http://bdcraft.net/downloads )
+
+- JJJason
+( http://www.minecraftforum.net/topic/732038-1286432-jjjas0ns-fancycraft-texturepack-11/ )
+--------------------------------------------------------------
+
+0.1.1
+-Water texture color corrected!
+-Tinker's Quartz enchant added for all done items!
+-Wildcaves Bone ore reskinned!
+-Galacticraft inventory gui updated!
+-Tinker's Emerald enchant updated for a few textures.
+-Enchanting books updated!
+-Misa credit and texturepack credit.txt's have merged!
+
+0.1.0
+-Official Release Fix! With modpack updates for our release, there came complications!

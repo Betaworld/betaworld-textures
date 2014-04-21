@@ -23,12 +23,26 @@ Mod packs in the "done" state;
 ~Wild Caves
 
 Changes:
+0.1.1
+-Water texture color corrected!
+-Tinker's Quartz enchant added for all done items!
+-Wildcaves Bone ore reskinned!
+-Galacticraft inventory gui updated!
+-Tinker's Emerald enchant updated for a few textures.
+-Enchanting books updated!
+-Misa credit and texturepack credit.txt's have merged!
 
-1.0
--Oficial Release!
-Permission granted from Misa to distribute her textures!  YAY Misa!
+0.1.0
+-Official Release Fix! With modpack updates for our release, there came complications!
 
-0.6
+0.0.1
+-Official Release!
+Permission granted from Misa to distribute their textures!  YAY Misa!
+Permission granted from JJJas0n to distribute their textures!  YAY JJJas0n!
+Permission granted from Soartex to distribute their textures!  YAY Soartex!
+
+
+0.0.6
 -Atomic Science Uranium Ore has been re-textured!
 -Ars Magica Keystone chest revamped!
 -Mo Creatures Golem revamped/not fully done.
@@ -36,12 +50,12 @@ Permission granted from Misa to distribute her textures!  YAY Misa!
 -Updated the mojang login pic!
 -Updated Credits text!
 
-0.5
+0.0.5
 -Galacticraft Mars completely done. (too many changes to list)
 -Galacticraft Moon completely done. (too many changes to list)
 -Mo Creatures Silver skeleton has been textured!
 
-0.4
+0.0.4
 -Ars Magica affinity Runes has been textured!
 -Ars Magica affinity Tomes has been textured!
 -Ars Magica affinity Essences has been textured!
@@ -61,23 +75,23 @@ Permission granted from Misa to distribute her textures!  YAY Misa!
 -Galacticraft core Moon (space) has been textured!
 -Galacticraft core Overworld (space) has been textured!
 
-0.3
+0.0.3
 -Tinker's Battlesigns are now in the pack!
 -Galacticraft core base textures have been added!
 -Galacticraft moon textures have been added!
 -Atomic Science Uranium Ore has been adjusted!
 
-0.2
+0.0.2
 -Tinker's Shortbows are now in the pack!
 -Tinker's Daggers are now in the pack!
 -Large plate has now been textured!
 
-0.1
+0.0.1
 -Tinker's redstone brick brighter/more red.
 -Biomesxl cypress leave toned down.
 -Tinker's top of green slime grass color adjusted.
 
-0.0
+0.0.0
 -Base pack created
 
 
