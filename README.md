@@ -18,7 +18,7 @@ I have just got permission to use the wonderful KoP Photo Realism
 pack from xx12xx!  I will be making the transition from Misa to 
 KoP as time allows!
 
-( http://www.minecraftforum.net/topic/559699-512x256x-128x64x-171615-kop-photo-realism/ )
+http://www.minecraftforum.net/topic/559699-512x256x-128x64x-171615-kop-photo-realism/
 
 Seriously, go check out his work, it is very impressive!
 
@@ -46,6 +46,7 @@ Inspiration came from:
 -Ars Magica 2 Essence refiner updated!
 -Ars Magica 2 Magic Broom added!
 -Ars Magica 2 Calefactor added!
+-Bibliocraft lantern revamped!
 
 0.1.1
 
