@@ -18,7 +18,7 @@ I have just got permission to use the wonderful KoP Photo Realism
 pack from xx12xx!  I will be making the transition from Misa to 
 KoP as time allows!
 
-( http://www.minecraftforum.net/topic/559699-512x256x-128x64x-171615-kop-photo-realism/ )
+http://www.minecraftforum.net/topic/559699-512x256x-128x64x-171615-kop-photo-realism/
 
 Seriously, go check out his work, it is very impressive!
 
@@ -37,7 +37,25 @@ Inspiration came from:
 
 --------------------------------------------------------------
 
-<<<<<<< HEAD
+0.1.5
+Numerous minor changes made!
+
+0.1.4
+-Bibliocraft lantern revamped again!
+-Bibliocraft lamp revamped!
+
+0.1.3
+-Ars Magica 2 Caster Rune has been revamped!
+-Ars Magica 2 Caster Rune side has been revamped!
+-Ars Magica 2 Lesser Staff has been added!
+-Ars Magica 2 Standard Staff has been added!
+-Ars Magica 2 Greater Staff has been added!
+-Ars Magica 2 Magitech Staff has been added!
+-Ars Magica 2 Crystal Wrench has been revamped!
+-Ars Magica 2 Moonstone Block has been revamped!
+-Ars Magica 2 Blue Topaz Block has been revamped!
+-Bibliocraft Monocle added!
+-Bibliocraft lantern revamped!
 
 0.1.2
 -Ars Magica 2 Vinteum Ore revamped and animated!
@@ -48,11 +66,10 @@ Inspiration came from:
 -Ars Magica 2 Essence refiner updated!
 -Ars Magica 2 Magic Broom added!
 -Ars Magica 2 Calefactor added!
-
-=======
+-Bibliocraft lantern revamped!
 
 0.1.1
->>>>>>> origin/develop
+
 -Water texture color corrected!
 -Tinker's Quartz enchant added for all done items!
 -Wildcaves Bone ore reskinned!
@@ -61,14 +78,6 @@ Inspiration came from:
 -Enchanting books updated!
 -Misa credit and texturepack credit.txt's have merged!
 
-<<<<<<< HEAD
-0.1.1
+0.1.0
 -Official Release Fix! With modpack updates for our release, there came complications!
 
-0.1.0
--Official Release!
-Permission granted from Misa to distribute her textures!  YAY Misa!
-=======
-0.1.0
--Official Release Fix! With modpack updates for our release, there came complications!
->>>>>>> origin/develop
