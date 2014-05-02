@@ -37,6 +37,18 @@ Inspiration came from:
 
 --------------------------------------------------------------
 
+0.1.6
+-Weapon Mod Flintlock pistol added!
+-Weapon Mod Damage dart added!
+-Weapon Mod Hunger dart added!
+-Weapon Mod Slow dart added!
+-Bibliocraft Darktint Glasses added!
+-Ars Magica 2 Occulus added!
+-Base Minecraft Spruce top added!
+-Base Minecraft Birch top added!
+-Base Minecraft Jungle top added!
+-Texture pack cleanup!
+
 0.1.5
 Numerous minor changes made!
 
