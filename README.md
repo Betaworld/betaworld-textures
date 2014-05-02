@@ -37,6 +37,38 @@ Inspiration came from:
 
 --------------------------------------------------------------
 
+0.1.6
+-Weapon Mod Flintlock pistol added!
+-Weapon Mod Damage dart added!
+-Weapon Mod Hunger dart added!
+-Weapon Mod Slow dart added!
+-Bibliocraft Darktint Glasses added!
+-Ars Magica 2 Occulus added!
+-Base Minecraft Spruce top added!
+-Base Minecraft Birch top added!
+-Base Minecraft Jungle top added!
+-Texture pack cleanup!
+
+0.1.5
+Numerous minor changes made!
+
+0.1.4
+-Bibliocraft lantern revamped again!
+-Bibliocraft lamp revamped!
+
+0.1.3
+-Ars Magica 2 Caster Rune has been revamped!
+-Ars Magica 2 Caster Rune side has been revamped!
+-Ars Magica 2 Lesser Staff has been added!
+-Ars Magica 2 Standard Staff has been added!
+-Ars Magica 2 Greater Staff has been added!
+-Ars Magica 2 Magitech Staff has been added!
+-Ars Magica 2 Crystal Wrench has been revamped!
+-Ars Magica 2 Moonstone Block has been revamped!
+-Ars Magica 2 Blue Topaz Block has been revamped!
+-Bibliocraft Monocle added!
+-Bibliocraft lantern revamped!
+
 0.1.2
 -Ars Magica 2 Vinteum Ore revamped and animated!
 -Ars Magica 2 Sunstone Ore revamped!
